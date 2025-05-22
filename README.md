@@ -59,10 +59,11 @@ User provides:
 
 #### 📋 Sheet: `Left Detections`
 
-| Timestamp | Detected Car Image      | Vehicle Type |
-|-----------|-------------------------|--------------|
-| 06:00:12  | ![Car 1](image_2.png)   | Car          |
-| 06:01:05  | ![Car 2](image_3.png)   | Truck        |
+| Timestamp | Detected Car Image                                 | Vehicle Type |
+|-----------|----------------------------------------------------|--------------|
+| 06:00:12  | ![Car 1](image%20%282%29.png)                       | Car          |
+| 06:01:05  | ![Car 2](image%20%283%29.png)                       | Truck        |
+
 
 
 #### Sheet: `Summary`
