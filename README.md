@@ -61,7 +61,7 @@ User provides:
 
 | Timestamp | Detected Car Image | Vehicle Type |
 |-----------|--------------------|---------------|
-| 06:00:12  | ![img](image)       | Car           |
+| 06:00:12  | ![img](image (2))       | Car           |
 | 06:01:05  | ![img](image)       | Truck         |
 
 #### Sheet: `Summary`
