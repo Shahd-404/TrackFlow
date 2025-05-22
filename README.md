@@ -57,12 +57,13 @@ User provides:
 
 ###  Example Excel Report
 
-#### Sheet: `Left Detections`
+#### 📋 Sheet: `Left Detections`
 
-| Timestamp | Detected Car Image | Vehicle Type |
-|-----------|--------------------|---------------|
-| 06:00:12  | ![img](image (2))       | Car           |
-| 06:01:05  | ![img](image)       | Truck         |
+| Timestamp | Detected Car Image      | Vehicle Type |
+|-----------|-------------------------|--------------|
+| 06:00:12  | ![Car 1](image_2.png)   | Car          |
+| 06:01:05  | ![Car 2](image_3.png)   | Truck        |
+
 
 #### Sheet: `Summary`
 
