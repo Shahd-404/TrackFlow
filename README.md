@@ -105,7 +105,7 @@ You can run this project directly on **Google Colab** without installing anythin
 
 Click the badge below to open the notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16SrBK8AKWLXT1M55E2kWUkyuqdBwnV9z?usp=sharing)
+https://colab.research.google.com/drive/16SrBK8AKWLXT1M55E2kWUkyuqdBwnV9z?usp=sharing
 
 > Make sure to provide the Google Drive video ID when prompted, and follow the instructions in the notebook to start processing.
 
